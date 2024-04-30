@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-views
+Creates a blueprint app_views
 """
 
 from flask import Blueprint
